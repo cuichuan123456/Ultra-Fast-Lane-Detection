@@ -4,6 +4,7 @@ from utils.common import merge_config
 from utils.dist_utils import dist_print
 from evaluation.eval_wrapper import eval_lane
 import torch
+#测试git
 if __name__ == "__main__":
     torch.backends.cudnn.benchmark = True
 
